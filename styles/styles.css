@@ -29,3 +29,13 @@
     margin: 0 auto;/*Centers the image (margin: auto usually only works for block level elements unless display: block is active)*/
     
   }
+  button{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: yellow;
+    border-radius: 10px;
+    Text-decoration: underline; 
+  }
